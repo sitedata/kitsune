@@ -122,7 +122,7 @@ cryptography==2.3 \
 dennis==0.7 \
     --hash=sha256:e9e925c0097c6f5eb7716e50ca57155ed1f670f0fa72a661053198c1890a02f5 \
     --hash=sha256:fde267aeb03a8d49e3341e7f71a228c6748dce43b5c00f65581780d99b70b2d9
-Django==1.11.29 \
+Django==2.2.18 \
     --hash=sha256:014e3392058d94f40569206a24523ce254d55ad2f9f46c6550b0fe2e4f94cf3f \
     --hash=sha256:4200aefb6678019a0acf0005cd14cfce3a5e6b9b90d06145fcdd2e474ad4329c
 django-activity-stream==0.6.5 \
@@ -197,7 +197,7 @@ https://github.com/html5lib/html5lib-python/archive/f5855f3d0ad6d4202e2b5d02626d
 httplib2==0.9 \
     --hash=sha256:39ea8c6a6d9f595c177a16134fc49a990ad8d382758cbf469c8659662f2f51ab \
     --hash=sha256:e227e67f676293025fbedca080c7114685e55857d6079d15f12704dfda03dd62
-Jinja2==2.10.1 \
+Jinja2==2.11.3 \
     --hash=sha256:065c4f02ebe7f7cf559e49ee5a95fb800a9e4528727aec6f24402a5374c65013 \
     --hash=sha256:14dd6caf1527abb21f08f86c784eac40853ba93edb79552aa1e4b8aef1b61c7b
 kombu==3.0.37 \
