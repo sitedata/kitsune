@@ -194,7 +194,7 @@ html5lib==0.95 \
     --hash=sha256:a6e707d9cb17c8bf1e553713ad14b31274a81d5c0ce0fce21b02936d0efd7dbb
 https://github.com/html5lib/html5lib-python/archive/f5855f3d0ad6d4202e2b5d02626d85178ff6443a.tar.gz#egg=html5lib-python==0.95 \
     --hash=sha256:0fb097f02d6aa65686e8f486c0bdc1786cad9b5378f84c27237d291532f4a97e
-httplib2==0.9 \
+httplib2==0.19.0 \
     --hash=sha256:39ea8c6a6d9f595c177a16134fc49a990ad8d382758cbf469c8659662f2f51ab \
     --hash=sha256:e227e67f676293025fbedca080c7114685e55857d6079d15f12704dfda03dd62
 Jinja2==2.10.1 \
