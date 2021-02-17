@@ -143,7 +143,7 @@ entrypoints==0.3 \
 pycodestyle==2.5.0 \
     --hash=sha256:95a2219d12372f05704562a14ec30bc76b05a5b297b21a5dfe3f6fac3491ae56 \
     --hash=sha256:e40a936c9a450ad81df37f549d676d127b1b66000a6c500caa2b085bc0ca976c
-pylint==1.9.5 \
+pylint==2.6.1 \
     --hash=sha256:367e3d49813d349a905390ac27989eff82ab84958731c5ef0bef867452cfdc42 \
     --hash=sha256:97a42df23d436c70132971d1dcb9efad2fe5c0c6add55b90161e773caf729300
 astroid==1.6.6 \
