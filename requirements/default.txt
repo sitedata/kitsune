@@ -174,7 +174,7 @@ django-timezone-field==3.0 \
 django-waffle==0.11 \
     --hash=sha256:9cd9e3a976849a3cd816830d7811b93543c1dc9da9f3cb1ccc2f9da831b8b025 \
     --hash=sha256:914b4b874fa6250a0897bc30b67e02034d92a7235ab72a91bf6da49b71751de4
-djangorestframework==3.9.2 \
+djangorestframework==3.11.2 \
     --hash=sha256:8a435df9007c8b7d8e69a21ef06650e3c0cbe0d4b09e55dd1bd74c89a75a9fcd \
     --hash=sha256:f7a266260d656e1cf4ca54d7a7349609dc8af4fe2590edd0ecd7d7643ea94a17
 elasticutils==0.10.3 \
@@ -233,7 +233,7 @@ oauthlib==0.7.2 \
     --hash=sha256:a051f04ee8ec3305055ab34d87b36c9a449375e07c7d6a05bcafa48329cac7c3
 ordereddict==1.1 \
     --hash=sha256:1c35b4ac206cef2d24816c89f89cf289dd3d38cf7c449bb3fab7bf6d43f01b1f
-Pillow==4.3.0 \
+Pillow==8.2.0 \
     --hash=sha256:cc6a5ed5b8f9d2f25e4e42d562e0ec4df3ce838f9e9b9d9d9b65fac6fe93a4cc \
     --hash=sha256:54898190b538a6c8fa4228e866ff2e7609da1ba9fd1d9cc5dc8ca591d37ce0a8 \
     --hash=sha256:a336596b06e062b92eb8201a3b5dff07ae01c3a5d08ce5539d2da49b123f2be6 \
