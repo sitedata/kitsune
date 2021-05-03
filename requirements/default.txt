@@ -8,7 +8,7 @@ amqplib==1.0.2 \
     --hash=sha256:843d69b681a60afd21fbf50f310404ec67fcdf9d13dfcf6e9d41f3b456217e5b
 anyjson==0.3.3 \
     --hash=sha256:37812d863c9ad3e35c0734c42e0bf0320ce8c3bed82cd20ad54cb34d158157ba
-Babel==2.6.0 \
+Babel==2.9.1 \
     --hash=sha256:6778d85147d5d85345c14a26aada5e478ab04e39b078b0745ee6870c2b5cf669 \
     --hash=sha256:8cba50f48c529ca3fa18cf81fa9403be176d374ac4d60738b839122dfaaa3d23
 billiard==3.3.0.23 \
